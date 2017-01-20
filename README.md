@@ -1,2 +1,5 @@
 # hello-world
-Simple Hello World Project
+
+Hi Humans!
+
+Software Engineer and SOLID enthusiast
